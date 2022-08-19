@@ -1,0 +1,12 @@
+<items>
+  <item>
+    <command>add</command>
+    <url>https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/streams/2013/March/130326/1C6639340-google-logo.jpg</url>
+    <caption labelposition="top-right" fontcolor="#CC33CC" labelx="10" labely="20" shadow="no" fontname="arial" italic="yes" fontsize="40">New Title</caption>
+    <imagesize position="random">stretch</imagesize>
+  </item>
+  <item>
+    <command>add</command>
+    <url>https://wallpaper-house.com/data/out/12/wallpaper2you_476103.png</url>
+  </item>
+</items>
